@@ -7,7 +7,8 @@ namespace MovieReviewWebsite.Models
 {
     public class genreviewModels
     {
-        public Movie Movie { get; set; }
-        public Genre Genre { get; set; }
+      
+            public Film Film { get; set; }
+            public Genre Genre { get; set; }
+        }
     }
-}
